@@ -28,4 +28,4 @@ fabric:
   # goproxy: "https://proxy.golang.org,direct"
   ### the goproxy in China area
   # goproxy: "https://goproxy.cn,direct"
-s
+  
